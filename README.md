@@ -1,0 +1,1 @@
+# Engenharia_Software_2025-2_-Scrapegraph-ai_atividade3_parte1
