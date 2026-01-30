@@ -3,7 +3,8 @@
 **Disciplina:** Engenharia de Software II (2025.2)  
 **Docente:** Prof. Dr. Glauco de Figueiredo Carneiro  
 **Projeto Objeto de Estudo:** [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
-** Link do video no Yt : ** [Clique aqui!](https://youtu.be/hCBscRM0t1E)
+---
+**Link do video no Yt:** [Clique aqui!](https://youtu.be/hCBscRM0t1E)
 
 ---
 
