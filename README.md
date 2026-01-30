@@ -5,6 +5,7 @@
 **Projeto Objeto de Estudo:** [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
 ---
 **Link do video no Yt:** [Clique aqui!](https://youtu.be/hCBscRM0t1E)
+**Link dos Slides usados na apresentação:** [Clique aqui!](https://gamma.app/docs/Atividade-3-Etapa-1-Diagnostico-de-DevOps-e-CICD-jpva3u4a1uz6ush)
 
 ---
 
